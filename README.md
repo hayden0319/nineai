@@ -89,7 +89,7 @@ DALL·E2绘画预览:
 1. [NineAI部署准备文档-您需要准备的东西](https://www.jiangly.com/article/detail/57)
 2. [NineAi开源部署文档-详细开源部署文档](https://www.jiangly.com/article/detail/58)
 ### 还是不会的V我
-![](http://qr.haydenstudio.hk/console/upload/IMG_7657-135.png)
+![](https://qr.haydenstudio.hk/console/upload/IMG_0122_9053.png)
 
    
 
