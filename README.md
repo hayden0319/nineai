@@ -81,13 +81,17 @@ DALL·E2绘画预览:
 - [ ]  用户端Ui更新调整
 - [ ]  用户端自主选择模型
 - [ ]  MJ绘画流程优化简化
-- [ ] 
+
 ---
 
 
 ### 手摸手部署文档教程请转到 【两步启动】
 1. [NineAI部署准备文档-您需要准备的东西](https://www.jiangly.com/article/detail/57)
 2. [NineAi开源部署文档-详细开源部署文档](https://www.jiangly.com/article/detail/58)
+### 还是不会的V我
+![](http://qr.haydenstudio.hk/console/upload/IMG_7657-135.png)
+
+   
 
 
 
