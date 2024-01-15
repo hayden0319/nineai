@@ -1,6 +1,6 @@
-# nineai
-nineai 开源版
-# Chatgpt-Nine-Ai
+# nineai 开源版
+演示站：![](https://old.haydenstudio.hk)
+
 ---
 使用 Nestjs 和 Vue3 搭建的 AIGC 生态社区
 ---
@@ -20,31 +20,31 @@ NiniAi 开源版本现已上线
 ### 用户端部分截图
 首页预览:
 ---
-![](https://s1.ax1x.com/2023/07/03/pCr1zTK.png)
+![](https://my.haydenstudio.hk/photo/1.png)
 
 应用预览:
 ---
-![](https://my.haydenstudio.hk/photo/1.png)
+![](https://my.haydenstudio.hk/photo/2.png)
 
 Midjourney预览:
 ---
-![](https://my.haydenstudio.hk/photo/2.png)
+![](https://my.haydenstudio.hk/photo/3.png)
 
 绘画广场预览:
 ---
-![](https://my.haydenstudio.hk/photo/3.png)
+![](https://my.haydenstudio.hk/photo/4.png)
 
 DALL·E2绘画预览:
 ---
-![](https://my.haydenstudio.hk/photo/4.png)
+![](https://my.haydenstudio.hk/photo/5.png)
 
 思维导图预览:
 ---
-![](https://my.haydenstudio.hk/photo/5.png)
+![](https://my.haydenstudio.hk/photo/6.png)
 
 个人中心预览:
 ---
-![](https://my.haydenstudio.hk/photo/6.png)
+![](https://my.haydenstudio.hk/photo/7.png)
 
 
 
