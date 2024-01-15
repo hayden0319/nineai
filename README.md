@@ -18,30 +18,33 @@ NiniAi 开源版本现已上线
 ---
 
 ### 用户端部分截图
-
-#### 敏感词回复及自动回复
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134284262image.png)
-#### Midjourney绘画
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134611336image.png)
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134537631image.png)
-#### openai DALL-E2绘画
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134407124image.png)
-#### 自定义公告
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134685605image.png)
-#### 个人中心
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134765978image.png)
-#### 卡密购买
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134774958image.png)
-#### 邀请赠送
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684134880758image.png)
-
+首页预览:
 ---
-### 管理端
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684135084447image.png)
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684135088056image.png)
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684135093553image.png)
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684135097543image.png)
-![](https://public-1300678944.cos.ap-shanghai.myqcloud.com/blog/1684135103187image.png)
+![](https://s1.ax1x.com/2023/07/03/pCr1zTK.png)
+
+应用预览:
+---
+![](https://my.haydenstudio.hk/photo/1.png)
+
+Midjourney预览:
+---
+![](https://my.haydenstudio.hk/photo/2.png)
+
+绘画广场预览:
+---
+![](https://my.haydenstudio.hk/photo/3.png)
+
+DALL·E2绘画预览:
+---
+![](https://my.haydenstudio.hk/photo/4.png)
+
+思维导图预览:
+---
+![](https://my.haydenstudio.hk/photo/5.png)
+
+个人中心预览:
+---
+![](https://my.haydenstudio.hk/photo/6.png)
 
 
 
