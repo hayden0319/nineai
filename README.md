@@ -24,7 +24,7 @@ NiniAi 开源版本现已上线
 
 应用预览:
 ---
-![](https://my.haydenstudio.hk/photo/2.png)
+![](https://my.haydenstudio.hk/photo/6.png)
 
 Midjourney预览:
 ---
@@ -32,7 +32,7 @@ Midjourney预览:
 
 绘画广场预览:
 ---
-![](https://my.haydenstudio.hk/photo/4.png)
+![](https://my.haydenstudio.hk/photo/2.png)
 
 DALL·E2绘画预览:
 ---
@@ -40,7 +40,7 @@ DALL·E2绘画预览:
 
 思维导图预览:
 ---
-![](https://my.haydenstudio.hk/photo/6.png)
+![](https://my.haydenstudio.hk/photo/7.png)
 
 个人中心预览:
 ---
