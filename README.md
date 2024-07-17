@@ -1,5 +1,5 @@
 # nineai 开源版
-[演示站：](https://0self.com)
+[演示站](https://0hundred.com)
 
 ---
 使用 Nestjs 和 Vue3 搭建的 AIGC 生态社区
