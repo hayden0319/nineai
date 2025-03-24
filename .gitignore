@@ -24,3 +24,5 @@ service/**/.env
 *.log
 *.iml
 node_modules/
+/admin
+/service
