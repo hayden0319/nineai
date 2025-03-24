@@ -9,6 +9,16 @@ node_modules/*
 /chat/build/*
 /chat/build
 
+# admin
+/chat/node_modules/
+/chat/dist/
+
+# service
+/chat/node_modules/
+/chat/service/.env
+/chat/service/**/.env
+/chat//dist/
+
 .idea/
 *.log
 *.iml
