@@ -139,7 +139,7 @@ pm2 start dist/main.js --name nineai
 ---
 
 ## **💬 获取帮助**
-- **问题反馈**：[提交 Issue](https://github.com/your-repo/issues)
+- **问题反馈**：[提交 Issue](https://github.com/hayden0319/nineai/issues/new)
 - **交流群**：扫码添加微信  
   ![](https://qr.haydenstudio.hk/console/upload/IMG_0122_9053.png)
 
