@@ -8,9 +8,9 @@
   "eslint.alwaysShowStatus": true,
   "eslint.quiet": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
-    "source.fixAll": true,
-    "source.fixAll.stylelint": true
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll": "explicit",
+    "source.fixAll.stylelint": "explicit"
   },
   "stylelint.customSyntax": "postcss-less",
   "stylelint.validate": [
