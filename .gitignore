@@ -10,14 +10,14 @@ node_modules/*
 /chat/build
 
 # admin
-/chat/node_modules/
-/chat/dist/
+admin/node_modules/
+admin/dist/
 
 # service
-/chat/node_modules/
-/chat/service/.env
-/chat/service/**/.env
-/chat//dist/
+service/node_modules/
+service/service/.env
+service/**/.env
+service/dist/
 
 .idea/
 *.log
