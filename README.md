@@ -72,9 +72,7 @@ NineAI 开源版是一个基于 **NestJS（后端） + Vue3（前端）** 构建
 ---
 
 ## **🛠️ 快速部署**
-### **📚 部署文档**
-1. **[NineAI 部署准备（环境要求）](https://www.jiangly.com/article/detail/57)**  
-2. **[NineAI 详细部署教程](https://www.jiangly.com/article/detail/58)**  
+📚 **完整部署文档**: [teach.md](https://github.com/hayden0319/nineai/blob/main/teach.md)、
 
 ### **💡 两步启动（Docker 推荐）**
 ```bash
